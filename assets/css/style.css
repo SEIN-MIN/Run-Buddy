@@ -19,7 +19,7 @@ header a{
 }
 header nav{
     float: right;
-    margin: 7px o;
+    margin: 7px 0;
 }
 header nav ul li {
     display: inline;
